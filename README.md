@@ -6,7 +6,7 @@ This Is The Credit-Card-Checkout form designed with which is fully responsive an
 ![ScreenShot of Form](screenshots/a.png)
 
 
-## Run it Locally
+## Run It Locally
 ```
 $ git clone https://github.com/MahamudM90/CREDIT-CARD-CHECKOUT
 
