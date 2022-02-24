@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="Ahmed" content="Ahmed " />
+    <meta
+      name="description"
+      content="This page is created as a part of Dailu UI Challenge. For more information : http://www.dailyui.co/ "
+    />
+    <meta name="viewport" content="width=device-width, initial-sclae=1" />
+    <link rel="icon" href="assest/lol.ico" />
+    <title>Credit Card Checkout</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Raleway:600|Titillium+Web"
+      rel="stylesheet"
+    />
+    <style></style>
+  </head>
+
+  <body>
+    <!--  comment-->
+    <div class="beige"></div>
+    <div class="purple"></div>
+    <div class="container">
+      <div class="product">
+        <img src="media/product.png" alt="product photo" />
+        <p class="price">200 <span>&#36;</span></p>
+      </div>
+      <form action="get">
+        <h2>credit card checkout</h2>
+        <label for="cardNum"
+          >card number :
+          <input
+            type="number"
+            id="cardNum"
+            placeholder="0000-1111-2222-3333"
+            pattern="[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{4}"
+            minlength="19"
+            maxlength="19"
+        /></label>
+        <label for="cardOwner" required
+          >crad holder name :
+          <input type="text" id="cardOwner" placeholder="Mahamud Hasan "
+        /></label>
+        <label for="password" required
+          >CCV :
+          <input
+            type="password"
+            id="password"
+            maxlength="3"
+            required
+            placeholder="123"
+            minlength="3"
+        /></label>
+        <label for="expireDate" required
+          >expiration date :
+          <input type="month" id="expireDate" required value="2022-02"
+        /></label>
+        <label><input type="submit" value="purchase" /></label>
+      </form>
+    </div>
+    <script></script>
+  </body>
+</html>
