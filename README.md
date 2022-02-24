@@ -12,4 +12,4 @@ This is a health appointment form designed with HTML5 & CSS3 which is fully resp
 $ git clone https://github.com/MahamudM90/CREDIT-CARD-CHECKOUT
 
 ```
-   ###    [Live Site](https://appointmentforms.netlify.app/)
+   ###    [Live Site](https://credit-card-checkouts.netlify.app/)
