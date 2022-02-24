@@ -1,6 +1,14 @@
-# Credit-Card_Checkout
+## APPOINTMENT-FORM 🩺
+This is a health appointment form designed with HTML5 & CSS3 which is fully responsive and compatible to all major browsers⚕️
 
-Credit Card Checkout design 
 
-[View Page](https://ahmed-elbessfy.github.io/Credit-Card_Checkout_Design/)
+##### Home Page
+![ScreenShot of Form](screenshots/b.png)
 
+
+## Run it Locally
+```
+$ git clone https://github.com/MahamudM90/APPOINTMENT-FORM
+
+```
+   ###    [Live Site](https://appointmentforms.netlify.app/)
