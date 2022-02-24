@@ -9,7 +9,7 @@ This is a health appointment form designed with HTML5 & CSS3 which is fully resp
 
 ## Run it Locally
 ```
-$ git clone https://github.com/MahamudM90/APPOINTMENT-FORM
+$ git clone https://github.com/MahamudM90/CREDIT-CARD-CHECKOUT
 
 ```
    ###    [Live Site](https://appointmentforms.netlify.app/)
